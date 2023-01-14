@@ -1,5 +1,4 @@
 import express, { Application, Request, Response } from 'express';
-import session from 'express-session';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
